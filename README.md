@@ -19,4 +19,4 @@ Steps
 ```
 Project Flow
 ```
-![Project Flow] (E:\iNeuron\Deep Learning Project\DeepCNNClassifier\docs\Project flow.png)
+![Project Flow] (https://github.com/GyanendraChaubey/DeepCNNClassifier/blob/main/docs/Project%20flow.png)
