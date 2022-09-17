@@ -15,3 +15,8 @@ Steps
 9. run tox for testing your package
 10. Update the dvc.yaml
 11. run "dvc repro" for running all the stages in pipeline
+
+```
+Project Flow
+```
+![Project Flow] (E:\iNeuron\Deep Learning Project\DeepCNNClassifier\docs\Project flow.png)
