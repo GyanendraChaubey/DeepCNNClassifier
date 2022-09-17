@@ -19,4 +19,4 @@ Steps
 ```
 Project Flow
 ```
-![Project Flow] (https://github.com/GyanendraChaubey/DeepCNNClassifier/blob/main/docs/Project%20flow.png)
+![img](https://github.com/GyanendraChaubey/DeepCNNClassifier/blob/main/docs/Project%20flow.png)
