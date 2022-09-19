@@ -135,3 +135,6 @@ dmypy.json
 *.zip
 artifacts/prepare_base_model/base_model.h5
 artifacts/prepare_base_model/base_model_updated.h5
+artifacts/prepare_callbacks/checkpoint_dir/model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-19-12-11-18/train/events.out.tfevents.1663569711.GYANENDRACHAUBE.14384.0.v2
+artifacts/training/model.h5
