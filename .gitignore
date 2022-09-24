@@ -138,3 +138,5 @@ artifacts/prepare_base_model/base_model_updated.h5
 artifacts/prepare_callbacks/checkpoint_dir/model.h5
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-19-12-11-18/train/events.out.tfevents.1663569711.GYANENDRACHAUBE.14384.0.v2
 artifacts/training/model.h5
+artifacts\prepare_callbacks\tensorboard_log_dir\tb_logs_at_2022-09-24-12-15-14\train\events.out.tfevents.1664001927.GYANENDRACHAUBE.11552.0.v2
+artifacts\prepare_callbacks\tensorboard_log_dir\tb_logs_at_2022-09-24-13-23-41\train\events.out.tfevents.1664006032.GYANENDRACHAUBE.4084.0.v2
